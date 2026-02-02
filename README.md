@@ -7,25 +7,35 @@ The dashboard helps analyze sales performance, bonuses, and employee activity ac
 
 🔹 Tools & Technologies Used
 
-   Microsoft Excel
-   Power Query (ETL & Data Transformation)
-   Pivot Tables
-   Slicers & Pivot Charts
-   KPI Cards (GETPIVOTDATA)
+Microsoft Excel
+
+Power Query (ETL & Data Transformation)
+
+Pivot Tables
+
+Slicers & Pivot Charts
+
+KPI Cards (GETPIVOTDATA)
 
 🔹 Key Features
 
-   Cleaned and transformed raw data using Power Query
-   Merged multiple tables (Employee Info, Sales Data, Targets)
-   Grouped data by Department and Month
+Cleaned and transformed raw data using Power Query
+
+Merged multiple tables (Employee Info, Sales Data, Targets)
+
+Grouped data by Department and Month
 
 Built interactive KPIs:
 
-   Total Sales
-   Total Employees
-   Total Bonus
-   Dynamic filtering using slicers (Month & Department)
-   Business-ready dashboard layout
+Total Sales
+
+Total Employees
+
+Total Bonus
+
+Dynamic filtering using slicers (Month & Department)
+
+Business-ready dashboard layout
 
 🔹 Dashboard Preview
 
@@ -33,23 +43,28 @@ Built interactive KPIs:
 
 🔹 Business Questions Answered
 
-   Which department performs best in sales?
-   How does bonus distribution vary by month?
-   How many active employees are contributing to sales?
-   Monthly sales trends across departments
+Which department performs best in sales?
+
+How does bonus distribution vary by month?
+
+How many active employees are contributing to sales?
+
+Monthly sales trends across departments
 
 🔹 Learning Outcome
 
 This project strengthened my skills in:
 
-   Data cleaning & modeling
-   Business KPI design
-   Excel dashboard development
-   Analytical thinking and reporting
+Data cleaning & modeling
+
+Business KPI design
+
+Excel dashboard development
+
+Analytical thinking and reporting
 
 🔹 Author
-   DUAA SHAHID
-   Aspiring Data Analyst
-Aspiring Dt
-Your Name
+
+Duaa Shahid
+
 Aspiring Data Analyst
