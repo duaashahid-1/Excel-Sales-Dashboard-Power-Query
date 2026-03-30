@@ -63,6 +63,9 @@ Excel dashboard development
 
 Analytical thinking and reporting
 
+image at:
+https://github.com/duaashahid-1/Excel-Sales-Dashboard-Power-Query/blob/main/Salesdashboard.png?raw=true
+
 🔹 Author
 
 Duaa Shahid
